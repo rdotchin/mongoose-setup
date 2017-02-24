@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-setup",
+  "version": "1.0.0",
+  "description": "mongoose-setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdotchin/mongoose-setup.git"
+  },
+  "author": "Richard Dotchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdotchin/mongoose-setup/issues"
+  },
+  "homepage": "https://github.com/rdotchin/mongoose-setup#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4",
+    "request": "^2.79.0"
+  }
+}
